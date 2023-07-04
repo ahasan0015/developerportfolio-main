@@ -6,9 +6,9 @@ h1{
     font-size: 50px;
 }
 .orange-color{
-    color: blue;
+    color: orange;
 }
-section{
+.flexibal-container{
     display: flex;
     margin: bottom 150px;
 }
@@ -38,4 +38,11 @@ section{
     background-repeat: no-repeat;
     background-position: right;
 
+}
+.experience-item{
+    width: 40%;
+    box-shadow: 10px 10px 40px gray;
+    padding left: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
 }
